@@ -18,6 +18,6 @@ show_student_details(RegNo) :-
 :- initialization(main).
 
 main :-
-    write('192311268 - P.Ganesh'), nl,
+    write('192311264'), nl,
     show_student_details('192311268'),
     show_student_details('192311269').
