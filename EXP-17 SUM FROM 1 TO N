@@ -10,6 +10,6 @@ sum(N, Result) :-
 :- initialization(main).
 
 main :-
-    write('192311268 - P.Ganesh'), nl,
+    write('192311264'), nl,
     sum(5, X),
     write('Sum is: '), write(X), nl.
