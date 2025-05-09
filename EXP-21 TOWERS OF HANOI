@@ -16,6 +16,6 @@ move(N, A, B, C) :-
 :- initialization(main).
 
 main :-
-    write('192311268 - P.Ganesh'), nl,
+    write('192311264'), nl,
     write('Solving Towers of Hanoi with 3 disks: '), nl,
     move(3, 'A', 'C', 'B'). % Move 3 disks from peg A to peg C using peg B
