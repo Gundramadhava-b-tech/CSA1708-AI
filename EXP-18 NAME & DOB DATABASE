@@ -16,5 +16,5 @@ show_dob(Name) :-
 
 main :-
     write('192311264'), nl,
-    show_dob('P.Ganesh'),
+    show_dob('MADHAVA'),
     show_dob('Anjali Sharma').
